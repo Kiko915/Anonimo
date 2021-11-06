@@ -1,3 +1,5 @@
+![Anonimo Cover Photo](https://images2.imgbox.com/43/5f/12Mk9uv5_o.png)
+
 # Anonimo - Send Love More Confidently 💌
 ![GitHub](https://img.shields.io/github/license/Kiko915/Anonimo?style=flat-square)  ![Twitter Follow](https://img.shields.io/twitter/follow/_francisneil?label=Follow%20Me&style=social)
 
@@ -18,9 +20,9 @@ The motivation for this project is for those who are a little bit shy on letting
 ## Credits
 A list of the conributors to this project.
 
-* Francisco Dev Studio
+* [Francisco Dev Studio](https://web.facebook.com/franciscodevstudio) 
 * [The Unsent Project](https://theunsentproject.com/)
-* We STAN 
+* We STAN - Our group of contributors
 * [Anton Ramos](https://web.facebook.com/profile.php?id=100023683097270) 
 * [Deonna Angeline](https://web.facebook.com/deonna.angeline)
 

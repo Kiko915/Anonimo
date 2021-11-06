@@ -1,5 +1,5 @@
 # Anonimo - Send Love More Confidently 💌
-
+![GitHub](https://img.shields.io/github/license/Kiko915/Anonimo?style=flat-square)  ![Twitter Follow](https://img.shields.io/twitter/follow/_francisneil?label=Follow%20Me&style=social)
 
 ## Motivation
 The motivation for this project is for those who are a little bit shy on letting their expressions fly to their loved ones. This project is inspired by [The Unsent Project](https://theunsentproject.com/) & my shy friends. This project is made for everyone to write letters to each other to your friends, & family.
@@ -24,6 +24,6 @@ A list of the conributors to this project.
 * [Anton Ramos](https://web.facebook.com/profile.php?id=100023683097270) 
 * [Deonna Angeline](https://web.facebook.com/deonna.angeline)
 
-
-
+## License
+- [MIT](https://github.com/Kiko915/Anonimo/blob/main/LICENSE)
 
